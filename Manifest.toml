@@ -2,7 +2,7 @@
 
 julia_version = "1.11.7"
 manifest_format = "2.0"
-project_hash = "c2b60474932bb7aeb458f622d388c59e9d1b724f"
+project_hash = "a7fc0648d187023850c82a536b61d3868ed8543e"
 
 [[deps.AbstractFFTs]]
 deps = ["LinearAlgebra"]
@@ -1043,9 +1043,9 @@ version = "3.1.5+0"
 
 [[deps.KrylovKit]]
 deps = ["LinearAlgebra", "PackageExtensionCompat", "Printf", "Random", "VectorInterface"]
-git-tree-sha1 = "6dcba71deb016d646f1c1bcfcaacc764a198b8e6"
+git-tree-sha1 = "1ab4539f47bee7e5045f679e5136ccaa3c8c40c3"
 uuid = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
-version = "0.10.2"
+version = "0.10.3"
 weakdeps = ["ChainRulesCore"]
 
     [deps.KrylovKit.extensions]
