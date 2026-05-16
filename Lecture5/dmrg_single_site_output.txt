@@ -17,7 +17,7 @@ L->R: Updating site 16 sweep 1
 L->R: Updating site 17 sweep 1
 L->R: Updating site 18 sweep 1
 L->R: Updating site 19 sweep 1
-After L->R sweep, sweep = 1, E = -569.9999999999858
+After L->R sweep, sweep = 1, E = -569.8542241664707
 R->L: Updating site 20 sweep 1
 R->L: Updating site 19 sweep 1
 R->L: Updating site 18 sweep 1
@@ -56,7 +56,7 @@ L->R: Updating site 16 sweep 2
 L->R: Updating site 17 sweep 2
 L->R: Updating site 18 sweep 2
 L->R: Updating site 19 sweep 2
-After L->R sweep, sweep = 2, E = -569.9917856609654
+After L->R sweep, sweep = 2, E = -569.8514526998176
 R->L: Updating site 20 sweep 2
 R->L: Updating site 19 sweep 2
 R->L: Updating site 18 sweep 2
@@ -95,7 +95,7 @@ L->R: Updating site 16 sweep 3
 L->R: Updating site 17 sweep 3
 L->R: Updating site 18 sweep 3
 L->R: Updating site 19 sweep 3
-After L->R sweep, sweep = 3, E = -569.9514400667681
+After L->R sweep, sweep = 3, E = -569.0253353704543
 R->L: Updating site 20 sweep 3
 R->L: Updating site 19 sweep 3
 R->L: Updating site 18 sweep 3
@@ -134,7 +134,7 @@ L->R: Updating site 16 sweep 4
 L->R: Updating site 17 sweep 4
 L->R: Updating site 18 sweep 4
 L->R: Updating site 19 sweep 4
-After L->R sweep, sweep = 4, E = -534.0916173145561
+After L->R sweep, sweep = 4, E = -568.9931303622557
 R->L: Updating site 20 sweep 4
 R->L: Updating site 19 sweep 4
 R->L: Updating site 18 sweep 4
@@ -173,7 +173,7 @@ L->R: Updating site 16 sweep 5
 L->R: Updating site 17 sweep 5
 L->R: Updating site 18 sweep 5
 L->R: Updating site 19 sweep 5
-After L->R sweep, sweep = 5, E = -567.835647276135
+After L->R sweep, sweep = 5, E = -569.9999669851952
 R->L: Updating site 20 sweep 5
 R->L: Updating site 19 sweep 5
 R->L: Updating site 18 sweep 5
@@ -212,7 +212,7 @@ L->R: Updating site 16 sweep 6
 L->R: Updating site 17 sweep 6
 L->R: Updating site 18 sweep 6
 L->R: Updating site 19 sweep 6
-After L->R sweep, sweep = 6, E = -567.7893178493986
+After L->R sweep, sweep = 6, E = -559.5364990716944
 R->L: Updating site 20 sweep 6
 R->L: Updating site 19 sweep 6
 R->L: Updating site 18 sweep 6
@@ -251,7 +251,7 @@ L->R: Updating site 16 sweep 7
 L->R: Updating site 17 sweep 7
 L->R: Updating site 18 sweep 7
 L->R: Updating site 19 sweep 7
-After L->R sweep, sweep = 7, E = -569.9822116867501
+After L->R sweep, sweep = 7, E = -567.3823417274427
 R->L: Updating site 20 sweep 7
 R->L: Updating site 19 sweep 7
 R->L: Updating site 18 sweep 7
@@ -290,7 +290,7 @@ L->R: Updating site 16 sweep 8
 L->R: Updating site 17 sweep 8
 L->R: Updating site 18 sweep 8
 L->R: Updating site 19 sweep 8
-After L->R sweep, sweep = 8, E = -568.8888830149806
+After L->R sweep, sweep = 8, E = -566.596731396286
 R->L: Updating site 20 sweep 8
 R->L: Updating site 19 sweep 8
 R->L: Updating site 18 sweep 8
@@ -329,7 +329,7 @@ L->R: Updating site 16 sweep 9
 L->R: Updating site 17 sweep 9
 L->R: Updating site 18 sweep 9
 L->R: Updating site 19 sweep 9
-After L->R sweep, sweep = 9, E = -559.5860115349911
+After L->R sweep, sweep = 9, E = -567.8238237118417
 R->L: Updating site 20 sweep 9
 R->L: Updating site 19 sweep 9
 R->L: Updating site 18 sweep 9
@@ -368,7 +368,7 @@ L->R: Updating site 16 sweep 10
 L->R: Updating site 17 sweep 10
 L->R: Updating site 18 sweep 10
 L->R: Updating site 19 sweep 10
-After L->R sweep, sweep = 10, E = -569.999558177267
+After L->R sweep, sweep = 10, E = -539.4722188568874
 R->L: Updating site 20 sweep 10
 R->L: Updating site 19 sweep 10
 R->L: Updating site 18 sweep 10
@@ -407,7 +407,7 @@ L->R: Updating site 16 sweep 11
 L->R: Updating site 17 sweep 11
 L->R: Updating site 18 sweep 11
 L->R: Updating site 19 sweep 11
-After L->R sweep, sweep = 11, E = -561.2127721004322
+After L->R sweep, sweep = 11, E = -560.3074296410955
 R->L: Updating site 20 sweep 11
 R->L: Updating site 19 sweep 11
 R->L: Updating site 18 sweep 11
@@ -446,7 +446,7 @@ L->R: Updating site 16 sweep 12
 L->R: Updating site 17 sweep 12
 L->R: Updating site 18 sweep 12
 L->R: Updating site 19 sweep 12
-After L->R sweep, sweep = 12, E = -569.0960966384905
+After L->R sweep, sweep = 12, E = -569.6839037120028
 R->L: Updating site 20 sweep 12
 R->L: Updating site 19 sweep 12
 R->L: Updating site 18 sweep 12
@@ -485,7 +485,7 @@ L->R: Updating site 16 sweep 13
 L->R: Updating site 17 sweep 13
 L->R: Updating site 18 sweep 13
 L->R: Updating site 19 sweep 13
-After L->R sweep, sweep = 13, E = -569.5816647069289
+After L->R sweep, sweep = 13, E = -569.9999997763742
 R->L: Updating site 20 sweep 13
 R->L: Updating site 19 sweep 13
 R->L: Updating site 18 sweep 13
@@ -524,7 +524,7 @@ L->R: Updating site 16 sweep 14
 L->R: Updating site 17 sweep 14
 L->R: Updating site 18 sweep 14
 L->R: Updating site 19 sweep 14
-After L->R sweep, sweep = 14, E = -569.9996289538401
+After L->R sweep, sweep = 14, E = -567.0613407944483
 R->L: Updating site 20 sweep 14
 R->L: Updating site 19 sweep 14
 R->L: Updating site 18 sweep 14
@@ -563,7 +563,7 @@ L->R: Updating site 16 sweep 15
 L->R: Updating site 17 sweep 15
 L->R: Updating site 18 sweep 15
 L->R: Updating site 19 sweep 15
-After L->R sweep, sweep = 15, E = -568.9892157490353
+After L->R sweep, sweep = 15, E = -561.9460101790555
 R->L: Updating site 20 sweep 15
 R->L: Updating site 19 sweep 15
 R->L: Updating site 18 sweep 15
@@ -602,7 +602,7 @@ L->R: Updating site 16 sweep 16
 L->R: Updating site 17 sweep 16
 L->R: Updating site 18 sweep 16
 L->R: Updating site 19 sweep 16
-After L->R sweep, sweep = 16, E = -569.9999996017756
+After L->R sweep, sweep = 16, E = -569.7981996160063
 R->L: Updating site 20 sweep 16
 R->L: Updating site 19 sweep 16
 R->L: Updating site 18 sweep 16
@@ -641,7 +641,7 @@ L->R: Updating site 16 sweep 17
 L->R: Updating site 17 sweep 17
 L->R: Updating site 18 sweep 17
 L->R: Updating site 19 sweep 17
-After L->R sweep, sweep = 17, E = -548.8625001946154
+After L->R sweep, sweep = 17, E = -560.5001718494163
 R->L: Updating site 20 sweep 17
 R->L: Updating site 19 sweep 17
 R->L: Updating site 18 sweep 17
@@ -680,7 +680,7 @@ L->R: Updating site 16 sweep 18
 L->R: Updating site 17 sweep 18
 L->R: Updating site 18 sweep 18
 L->R: Updating site 19 sweep 18
-After L->R sweep, sweep = 18, E = -569.9998788430098
+After L->R sweep, sweep = 18, E = -567.9927707616366
 R->L: Updating site 20 sweep 18
 R->L: Updating site 19 sweep 18
 R->L: Updating site 18 sweep 18
@@ -719,7 +719,7 @@ L->R: Updating site 16 sweep 19
 L->R: Updating site 17 sweep 19
 L->R: Updating site 18 sweep 19
 L->R: Updating site 19 sweep 19
-After L->R sweep, sweep = 19, E = -569.9686546008595
+After L->R sweep, sweep = 19, E = -569.9806466551546
 R->L: Updating site 20 sweep 19
 R->L: Updating site 19 sweep 19
 R->L: Updating site 18 sweep 19
@@ -758,7 +758,7 @@ L->R: Updating site 16 sweep 20
 L->R: Updating site 17 sweep 20
 L->R: Updating site 18 sweep 20
 L->R: Updating site 19 sweep 20
-After L->R sweep, sweep = 20, E = -569.9999996467715
+After L->R sweep, sweep = 20, E = -569.4401539762991
 R->L: Updating site 20 sweep 20
 R->L: Updating site 19 sweep 20
 R->L: Updating site 18 sweep 20
@@ -797,7 +797,7 @@ L->R: Updating site 16 sweep 21
 L->R: Updating site 17 sweep 21
 L->R: Updating site 18 sweep 21
 L->R: Updating site 19 sweep 21
-After L->R sweep, sweep = 21, E = -568.678462223214
+After L->R sweep, sweep = 21, E = -569.9029736172693
 R->L: Updating site 20 sweep 21
 R->L: Updating site 19 sweep 21
 R->L: Updating site 18 sweep 21
@@ -836,7 +836,7 @@ L->R: Updating site 16 sweep 22
 L->R: Updating site 17 sweep 22
 L->R: Updating site 18 sweep 22
 L->R: Updating site 19 sweep 22
-After L->R sweep, sweep = 22, E = -569.9996712183731
+After L->R sweep, sweep = 22, E = -568.143649078213
 R->L: Updating site 20 sweep 22
 R->L: Updating site 19 sweep 22
 R->L: Updating site 18 sweep 22
@@ -875,7 +875,7 @@ L->R: Updating site 16 sweep 23
 L->R: Updating site 17 sweep 23
 L->R: Updating site 18 sweep 23
 L->R: Updating site 19 sweep 23
-After L->R sweep, sweep = 23, E = -569.9988499638894
+After L->R sweep, sweep = 23, E = -558.5550978377576
 R->L: Updating site 20 sweep 23
 R->L: Updating site 19 sweep 23
 R->L: Updating site 18 sweep 23
@@ -914,7 +914,7 @@ L->R: Updating site 16 sweep 24
 L->R: Updating site 17 sweep 24
 L->R: Updating site 18 sweep 24
 L->R: Updating site 19 sweep 24
-After L->R sweep, sweep = 24, E = -569.8224204482658
+After L->R sweep, sweep = 24, E = -569.9999999738445
 R->L: Updating site 20 sweep 24
 R->L: Updating site 19 sweep 24
 R->L: Updating site 18 sweep 24
@@ -953,7 +953,7 @@ L->R: Updating site 16 sweep 25
 L->R: Updating site 17 sweep 25
 L->R: Updating site 18 sweep 25
 L->R: Updating site 19 sweep 25
-After L->R sweep, sweep = 25, E = -566.8424705419558
+After L->R sweep, sweep = 25, E = -569.9724528244697
 R->L: Updating site 20 sweep 25
 R->L: Updating site 19 sweep 25
 R->L: Updating site 18 sweep 25
@@ -992,7 +992,7 @@ L->R: Updating site 16 sweep 26
 L->R: Updating site 17 sweep 26
 L->R: Updating site 18 sweep 26
 L->R: Updating site 19 sweep 26
-After L->R sweep, sweep = 26, E = -565.9158554664591
+After L->R sweep, sweep = 26, E = -568.7407299876572
 R->L: Updating site 20 sweep 26
 R->L: Updating site 19 sweep 26
 R->L: Updating site 18 sweep 26
@@ -1031,7 +1031,7 @@ L->R: Updating site 16 sweep 27
 L->R: Updating site 17 sweep 27
 L->R: Updating site 18 sweep 27
 L->R: Updating site 19 sweep 27
-After L->R sweep, sweep = 27, E = -554.8348952347965
+After L->R sweep, sweep = 27, E = -569.9999138191686
 R->L: Updating site 20 sweep 27
 R->L: Updating site 19 sweep 27
 R->L: Updating site 18 sweep 27
@@ -1070,7 +1070,7 @@ L->R: Updating site 16 sweep 28
 L->R: Updating site 17 sweep 28
 L->R: Updating site 18 sweep 28
 L->R: Updating site 19 sweep 28
-After L->R sweep, sweep = 28, E = -568.7881940587587
+After L->R sweep, sweep = 28, E = -555.2760191406076
 R->L: Updating site 20 sweep 28
 R->L: Updating site 19 sweep 28
 R->L: Updating site 18 sweep 28
@@ -1109,7 +1109,7 @@ L->R: Updating site 16 sweep 29
 L->R: Updating site 17 sweep 29
 L->R: Updating site 18 sweep 29
 L->R: Updating site 19 sweep 29
-After L->R sweep, sweep = 29, E = -569.9998995247474
+After L->R sweep, sweep = 29, E = -567.8098748984875
 R->L: Updating site 20 sweep 29
 R->L: Updating site 19 sweep 29
 R->L: Updating site 18 sweep 29
@@ -1148,7 +1148,7 @@ L->R: Updating site 16 sweep 30
 L->R: Updating site 17 sweep 30
 L->R: Updating site 18 sweep 30
 L->R: Updating site 19 sweep 30
-After L->R sweep, sweep = 30, E = -569.9999466674578
+After L->R sweep, sweep = 30, E = -564.6453453373238
 R->L: Updating site 20 sweep 30
 R->L: Updating site 19 sweep 30
 R->L: Updating site 18 sweep 30
